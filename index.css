@@ -6,4 +6,5 @@ html,
 body {
   display: flex;
   justify-content: center;
+  background-color: #5a5a5a;
 }
