@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  display: flex;
+  justify-content: center;
+}
