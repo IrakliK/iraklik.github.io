@@ -50,3 +50,9 @@ body {
   opacity: 75%;
   margin-bottom: 0;
 }
+
+@media only screen and (max-width: 450px) {
+  .hero {
+    width: 100%;
+  }
+}
