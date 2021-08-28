@@ -8,7 +8,7 @@ const about = {
   role: 'Full Stack Software Engineer',
   description:
     "I'm a Full Stack Software Engineer based out of Los Angeles, California. Passionate about Front-End/Back-End, JavaScript/TypeScript, learning, tooling and the Internet. Looking to contribute to more open source projects ",
-  resume: 'https://example.com',
+  // resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/iraklikhizanishvili/',
     github: 'https://github.com/IrakliK',
